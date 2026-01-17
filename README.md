@@ -6,6 +6,10 @@ Smart Waste Management System is a full-stack IoT application designed to monito
 
 This project was developed as a **Capstone project at Sheridan College (2025)** as a collaborative team effort.
 
+### Project Video
+
+Watch the full project demonstration: [YouTube Video](https://www.youtube.com/watch?v=5-iySpclYTk)
+
 **🏆 Achievement**: Recognized as one of the top projects, ranked **10th out of 49** projects in the Capstone showcase for excellence in full-stack development, IoT integration, and real-world problem solving.
 
 ## System Architecture Diagram
@@ -228,36 +232,10 @@ public void trashBinFillAndAlert(Sensor sensor, float distanceReading) {
 
 ---
 
-## Code Organization
-
-For portfolio demonstration, relevant code files are organized as follows:
-
-```
-portfolio-smart-waste/
-├── README.md                          # This file
-├── code/
-│   ├── MailServiceImpl.java           # Email notification service
-│   ├── TrashBinServiceImpl.java       # Fill calculation & location logic
-│   ├── trashbins-list.component.ts    # Map visualization component
-│   ├── trashbins-add.component.ts     # Add trashbin with map selection
-│   └── trashbin-edit.component.ts     # Edit trashbin with map centering
-└── screenshots/                       # UI demonstrations
-    ├── map-integration.png
-    ├── email-notification.png
-    └── fill-calculation.png
-```
-
-
-## Contact
-
-For questions or collaboration opportunities, please reach out through my portfolio.
-
----
-
-**Note**: This is a portfolio excerpt focusing on my contributions. The full project is private as it is a Capstone project developed by a team. Selected code snippets and screenshots are used to demonstrate my work while respecting project confidentiality.
-
+**Note**: This is a portfolio excerpt focusing on my contributions. The full project is private as it is a Capstone project developed by a team. Selected code snippets and demo are used to demonstrate my work while respecting project confidentiality.
 ---
 
 ## Demo
 
 ![Demo](demo_360p.gif)
+
