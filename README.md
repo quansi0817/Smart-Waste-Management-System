@@ -230,12 +230,10 @@ public void trashBinFillAndAlert(Sensor sensor, float distanceReading) {
 
 **Full Code**: See `code/TrashBinServiceImpl.java` (relevant methods)
 
----
-
-**Note**: This is a portfolio excerpt focusing on my contributions. The full project is private as it is a Capstone project developed by a team. Selected code snippets and demo are used to demonstrate my work while respecting project confidentiality.
----
-
 ## Demo
 
 ![Demo](demo_360p.gif)
 
+---
+**Note**: 
+This is a portfolio excerpt focusing on my contributions. The full project is private as it is a Capstone project developed by a team. Selected code snippets and demo are used to demonstrate my work while respecting project confidentiality.
